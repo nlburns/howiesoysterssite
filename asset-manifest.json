@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.28fa35b8.css",
+    "main.js": "/static/js/main.72c0da18.js",
+    "static/js/453.ce323748.chunk.js": "/static/js/453.ce323748.chunk.js",
+    "static/media/howielogo.svg": "/static/media/howielogo.60435934b91f7bf51b06ec6ac7d25898.svg",
+    "static/media/instagram.svg": "/static/media/instagram.0dd482fa842bd7851f54ff91a01be94a.svg",
+    "index.html": "/index.html",
+    "main.28fa35b8.css.map": "/static/css/main.28fa35b8.css.map",
+    "main.72c0da18.js.map": "/static/js/main.72c0da18.js.map",
+    "453.ce323748.chunk.js.map": "/static/js/453.ce323748.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28fa35b8.css",
+    "static/js/main.72c0da18.js"
+  ]
+}
